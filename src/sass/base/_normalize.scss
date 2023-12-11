@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter;
+}
+
+body {
+  background: rgba(138, 234, 228, 0.21);
+}
+
+input,
+button {
+  border: none;
+  cursor: pointer;
+}
+
+a,
+li {
+  text-decoration: none;
+}

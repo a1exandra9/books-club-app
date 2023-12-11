@@ -1,0 +1,138 @@
+.page__title {
+  color: #0C3C04;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  margin: 30px;
+}
+
+.catalog__btn {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  background: #8AEAE4;
+  padding: 10px 20px;
+}
+
+.catalog__title {
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  margin: 40px;
+}
+
+.catalog-img {
+  width: 225px;
+  height: 370px;
+}
+
+.catalog__genre-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 40px;
+  align-items: center;
+}
+
+.catalog__genre-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.catalog__input {
+  width: 290px;
+  height: 60px;
+  font-size: 32px;
+  font-style: normal;
+  background: #8AEAE4;
+}
+
+.catalog__input-active {
+  width: 290px;
+  height: 60px;
+  font-size: 32px;
+  font-style: normal;
+  background: #197E78;
+}
+
+.catalog__buttons {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 80px;
+}
+
+.catalog-btn {
+  width: 75px;
+  height: 75px;
+  font-size: 32px;
+  font-style: normal;
+  background: #8AEAE4;
+}
+
+.catalog-btn-active {
+  width: 75px;
+  height: 75px;
+  font-size: 32px;
+  font-style: normal;
+  background: #197E78;
+}
+
+
+
+
+
+//Books Card
+.bookcard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1320px;
+  height: 250px;
+  padding: 20px;
+  margin: auto;
+  margin-bottom: 20px;
+  background: white;
+}
+
+.bookcard__dates {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.bookcard__genre {
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bookcard__name {
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  width: 450px;
+}
+
+.bookcard__btn {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  background: #8AEAE4;
+  padding: 10px 20px;
+}

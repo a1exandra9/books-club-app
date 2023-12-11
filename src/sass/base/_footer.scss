@@ -1,0 +1,35 @@
+footer {
+  background: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  align-items: center;
+}
+
+.footer__contact {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.footer__menus {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  a {
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+  }
+}
+
+.footer__text {
+  color: #0C3C04;
+  font-size: 20px;
+}
+
+.footer__author {
+  width: 15%;
+  height: 5%;
+}

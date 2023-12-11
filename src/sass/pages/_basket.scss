@@ -1,0 +1,34 @@
+.basket__text {
+  padding: 30px 60px;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.auth__btn {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  background: #8AEAE4;
+  padding: 10px 50px;
+}
+
+.basket__delete {
+  border: none;
+  background: transparent;
+  transform: rotate(45deg);
+  font-size: 25px;
+}
+
+.basket__null__text {
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  margin: 20px;
+}

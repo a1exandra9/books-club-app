@@ -1,0 +1,30 @@
+header {
+  display: flex;
+}
+
+.header__column {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+.header__logo {
+  width: 30%;
+}
+
+.header__image {
+  width: 100%;
+}
+
+.header__navigation {
+  display: flex;
+  justify-content: end;
+  padding-bottom: 15px;
+}
+
+.header__menu {
+  color: #0C3C04;
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 60px;
+}
